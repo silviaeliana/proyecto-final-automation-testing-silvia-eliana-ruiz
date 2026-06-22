@@ -43,3 +43,5 @@ Para ejecutar la suite completa de pruebas y generar el reporte, utilizar el sig
 **Test Cart:** Pruebas funcionales del carrito de compras que incluyen la adición y eliminación de productos, verificación de persistencia de ítems y parametrización mediante archivos JSON.
 
 **Test API:** Suite de pruebas para endpoints públicos, validando métodos HTTP (GET, POST, DELETE) y la integridad de los datos en las respuestas JSON.
+
+Proyecto final de automatización - Actualizado el 21 de junio de 2026.
